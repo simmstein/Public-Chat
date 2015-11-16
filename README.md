@@ -107,7 +107,7 @@ instructions suivantes:
 Licence:
 ------------
 
-Copyright (c) <2015-2015> <Freddy Nawfal - http://playandcode.ml - zefreddy.na@gmail.com>
+Copyright (c) <2015-2015> Freddy Nawfal - http://playandcode.ml - zefreddy.na@gmail.com
 
 
 
